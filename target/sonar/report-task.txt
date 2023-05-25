@@ -1,0 +1,6 @@
+projectKey=com.mt:maven-standalone-application
+serverUrl=http://15.207.20.76:9980
+serverVersion=9.6.1.59531
+dashboardUrl=http://15.207.20.76:9980/dashboard?id=com.mt%3Amaven-standalone-application
+ceTaskId=AYgtKuE8YJzQPbZzcmlL
+ceTaskUrl=http://15.207.20.76:9980/api/ce/task?id=AYgtKuE8YJzQPbZzcmlL
